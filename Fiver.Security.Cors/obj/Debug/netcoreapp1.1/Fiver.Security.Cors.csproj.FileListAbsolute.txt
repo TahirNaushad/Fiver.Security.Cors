@@ -1,0 +1,9 @@
+C:\TAHIR\Source Code\_Fiver\ASP.NET\Fiver.Security.Cors\Fiver.Security.Cors\bin\Debug\netcoreapp1.1\Fiver.Security.Cors.deps.json
+C:\TAHIR\Source Code\_Fiver\ASP.NET\Fiver.Security.Cors\Fiver.Security.Cors\bin\Debug\netcoreapp1.1\Fiver.Security.Cors.runtimeconfig.json
+C:\TAHIR\Source Code\_Fiver\ASP.NET\Fiver.Security.Cors\Fiver.Security.Cors\bin\Debug\netcoreapp1.1\Fiver.Security.Cors.runtimeconfig.dev.json
+C:\TAHIR\Source Code\_Fiver\ASP.NET\Fiver.Security.Cors\Fiver.Security.Cors\bin\Debug\netcoreapp1.1\Fiver.Security.Cors.dll
+C:\TAHIR\Source Code\_Fiver\ASP.NET\Fiver.Security.Cors\Fiver.Security.Cors\obj\Debug\netcoreapp1.1\Fiver.Security.Cors.csprojResolveAssemblyReference.cache
+C:\TAHIR\Source Code\_Fiver\ASP.NET\Fiver.Security.Cors\Fiver.Security.Cors\obj\Debug\netcoreapp1.1\Fiver.Security.Cors.AssemblyInfo.cs
+C:\TAHIR\Source Code\_Fiver\ASP.NET\Fiver.Security.Cors\Fiver.Security.Cors\bin\Debug\netcoreapp1.1\Fiver.Security.Cors.pdb
+C:\TAHIR\Source Code\_Fiver\ASP.NET\Fiver.Security.Cors\Fiver.Security.Cors\obj\Debug\netcoreapp1.1\Fiver.Security.Cors.dll
+C:\TAHIR\Source Code\_Fiver\ASP.NET\Fiver.Security.Cors\Fiver.Security.Cors\obj\Debug\netcoreapp1.1\Fiver.Security.Cors.pdb

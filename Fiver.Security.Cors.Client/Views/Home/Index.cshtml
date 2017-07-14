@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ASP.NET Core CORS</title>
+
+    <script src="~/js/jquery.min.js"></script>
+
+</head>
+<body>
+    <div>
+        <h1>ASP.NET Core CORS</h1>
+
+        <input type="button" id="GetMovies" value="Get Movies" />
+        <input type="button" id="GetMovie" value="Get Movie" />
+
+        <div id="results"></div>
+    </div>
+    <script>
+        $(function () {
+            $("#GetMovies").click(function () {
+
+                $.ajax({
+                    method: 'GET',
+                    url: 'http://localhost:18659/movies'
+                }).done(function (data, statusText, xhdr) {
+                    $("#results").text(data);
+                }).fail(function (xhdr, statusText, errorText) {
+                    $("#results").text(JSON.stringify(xhdr));
+                });
+
+            });
+
+            $("#GetMovie").click(function () {
+
+                $.ajax({
+                    method: 'GET',
+                    url: 'http://localhost:18659/movies/1'
+                }).done(function (data, statusText, xhdr) {
+                    $("#results").text(data);
+                }).fail(function (xhdr, statusText, errorText) {
+                    $("#results").text(JSON.stringify(xhdr));
+                });
+
+            });
+        });
+    </script>
+</body>
+</html>

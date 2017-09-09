@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Fiver.Security.Cors.Controllers
 {
     [Route("movies")]
-    [EnableCors("fiver")]
+    //[EnableCors("fiver")]
     public class MoviesController : Controller
     {
         [HttpGet]
@@ -14,7 +14,7 @@ namespace Fiver.Security.Cors.Controllers
         }
 
         [HttpGet("{id}")]
-        [DisableCors]
+        //[DisableCors]
         public IActionResult Get(int id)
         {
             return Content($"Movie {id}");

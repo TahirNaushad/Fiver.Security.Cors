@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc.Cors.Internal;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
 
 namespace Fiver.Security.Cors
 {
@@ -17,17 +16,16 @@ namespace Fiver.Security.Cors
                     policy => policy.WithOrigins("http://localhost:21314"));
             });
 
-            services.AddMvc();
-            //services.AddMvc(options =>
-            //{
-            //    options.Filters.Add(new CorsAuthorizationFilterFactory("fiver"));
-            //});
+            //services.AddMvc();
+            services.AddMvc(options =>
+            {
+                options.Filters.Add(new CorsAuthorizationFilterFactory("fiver"));
+            });
         }
 
         public void Configure
             (IApplicationBuilder app,
-            IHostingEnvironment env,
-            ILoggerFactory loggerFactory)
+            IHostingEnvironment env)
         {
             //app.UseCors("fiver");
 

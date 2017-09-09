@@ -1,0 +1,11 @@
+C:\DATA\Work\_Fiver\Source Code\Fiver.Security.Cors\Fiver.Security.Cors.Client\bin\Debug\netcoreapp2.0\Fiver.Security.Cors.Client.deps.json
+C:\DATA\Work\_Fiver\Source Code\Fiver.Security.Cors\Fiver.Security.Cors.Client\bin\Debug\netcoreapp2.0\Fiver.Security.Cors.Client.runtimeconfig.json
+C:\DATA\Work\_Fiver\Source Code\Fiver.Security.Cors\Fiver.Security.Cors.Client\bin\Debug\netcoreapp2.0\Fiver.Security.Cors.Client.runtimeconfig.dev.json
+C:\DATA\Work\_Fiver\Source Code\Fiver.Security.Cors\Fiver.Security.Cors.Client\bin\Debug\netcoreapp2.0\Fiver.Security.Cors.Client.dll
+C:\DATA\Work\_Fiver\Source Code\Fiver.Security.Cors\Fiver.Security.Cors.Client\bin\Debug\netcoreapp2.0\Fiver.Security.Cors.Client.pdb
+C:\DATA\Work\_Fiver\Source Code\Fiver.Security.Cors\Fiver.Security.Cors.Client\obj\Debug\netcoreapp2.0\Fiver.Security.Cors.Client.csprojResolveAssemblyReference.cache
+C:\DATA\Work\_Fiver\Source Code\Fiver.Security.Cors\Fiver.Security.Cors.Client\obj\Debug\netcoreapp2.0\Fiver.Security.Cors.Client.csproj.CoreCompileInputs.cache
+C:\DATA\Work\_Fiver\Source Code\Fiver.Security.Cors\Fiver.Security.Cors.Client\obj\Debug\netcoreapp2.0\Fiver.Security.Cors.Client.AssemblyInfoInputs.cache
+C:\DATA\Work\_Fiver\Source Code\Fiver.Security.Cors\Fiver.Security.Cors.Client\obj\Debug\netcoreapp2.0\Fiver.Security.Cors.Client.AssemblyInfo.cs
+C:\DATA\Work\_Fiver\Source Code\Fiver.Security.Cors\Fiver.Security.Cors.Client\obj\Debug\netcoreapp2.0\Fiver.Security.Cors.Client.dll
+C:\DATA\Work\_Fiver\Source Code\Fiver.Security.Cors\Fiver.Security.Cors.Client\obj\Debug\netcoreapp2.0\Fiver.Security.Cors.Client.pdb
